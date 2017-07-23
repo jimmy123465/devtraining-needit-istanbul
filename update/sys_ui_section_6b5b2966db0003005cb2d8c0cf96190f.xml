@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="6b5b2966db0003005cb2d8c0cf96190f" sys_domain="global" table="x_58872_needit_win" version="3" view="nView">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>jimmy123465@gmail.com</sys_created_by>
+            <sys_created_on>2017-07-22 11:27:36</sys_created_on>
+            <sys_id>b57bc7eedbc003005cb2d8c0cf96199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_win" sys_domain="global" view="2b5b2966db0003005cb2d8c0cf96190b">6b5b2966db0003005cb2d8c0cf96190f</sys_ui_section>
+            <sys_updated_by>jimmy123465@gmail.com</sys_updated_by>
+            <sys_updated_on>2017-07-22 11:27:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>1</position>
+            <sys_created_by>jimmy123465@gmail.com</sys_created_by>
+            <sys_created_on>2017-07-22 11:27:36</sys_created_on>
+            <sys_id>397bc7eedbc003005cb2d8c0cf96199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_win" sys_domain="global" view="2b5b2966db0003005cb2d8c0cf96190b">6b5b2966db0003005cb2d8c0cf96190f</sys_ui_section>
+            <sys_updated_by>jimmy123465@gmail.com</sys_updated_by>
+            <sys_updated_on>2017-07-22 11:27:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>2</position>
+            <sys_created_by>jimmy123465@gmail.com</sys_created_by>
+            <sys_created_on>2017-07-22 11:27:36</sys_created_on>
+            <sys_id>b97bc7eedbc003005cb2d8c0cf96199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_win" sys_domain="global" view="2b5b2966db0003005cb2d8c0cf96190b">6b5b2966db0003005cb2d8c0cf96190f</sys_ui_section>
+            <sys_updated_by>jimmy123465@gmail.com</sys_updated_by>
+            <sys_updated_on>2017-07-22 11:27:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>3</position>
+            <sys_created_by>jimmy123465@gmail.com</sys_created_by>
+            <sys_created_on>2017-07-22 11:27:36</sys_created_on>
+            <sys_id>3d7bc7eedbc003005cb2d8c0cf96199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_win" sys_domain="global" view="2b5b2966db0003005cb2d8c0cf96190b">6b5b2966db0003005cb2d8c0cf96190f</sys_ui_section>
+            <sys_updated_by>jimmy123465@gmail.com</sys_updated_by>
+            <sys_updated_on>2017-07-22 11:27:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>4</position>
+            <sys_created_by>jimmy123465@gmail.com</sys_created_by>
+            <sys_created_on>2017-07-22 11:27:36</sys_created_on>
+            <sys_id>bd7bc7eedbc003005cb2d8c0cf96199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_win" sys_domain="global" view="2b5b2966db0003005cb2d8c0cf96190b">6b5b2966db0003005cb2d8c0cf96190f</sys_ui_section>
+            <sys_updated_by>jimmy123465@gmail.com</sys_updated_by>
+            <sys_updated_on>2017-07-22 11:27:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>5</position>
+            <sys_created_by>jimmy123465@gmail.com</sys_created_by>
+            <sys_created_on>2017-07-22 11:27:36</sys_created_on>
+            <sys_id>317bc7eedbc003005cb2d8c0cf9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_win" sys_domain="global" view="2b5b2966db0003005cb2d8c0cf96190b">6b5b2966db0003005cb2d8c0cf96190f</sys_ui_section>
+            <sys_updated_by>jimmy123465@gmail.com</sys_updated_by>
+            <sys_updated_on>2017-07-22 11:27:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>attached_knowledge</element>
+            <position>6</position>
+            <sys_created_by>jimmy123465@gmail.com</sys_created_by>
+            <sys_created_on>2017-07-22 11:27:36</sys_created_on>
+            <sys_id>b17bc7eedbc003005cb2d8c0cf9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Attached Knowledge">cfa76e850a0a0b1f01446f67c8538d00</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_win" sys_domain="global" view="2b5b2966db0003005cb2d8c0cf96190b">6b5b2966db0003005cb2d8c0cf96190f</sys_ui_section>
+            <sys_updated_by>jimmy123465@gmail.com</sys_updated_by>
+            <sys_updated_on>2017-07-22 11:27:36</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>jimmy123465@gmail.com</sys_created_by>
+            <sys_created_on>2017-07-22 11:27:36</sys_created_on>
+            <sys_id>757bc7eedbc003005cb2d8c0cf9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_win" sys_domain="global" view="2b5b2966db0003005cb2d8c0cf96190b">6b5b2966db0003005cb2d8c0cf96190f</sys_ui_section>
+            <sys_updated_by>jimmy123465@gmail.com</sys_updated_by>
+            <sys_updated_on>2017-07-22 11:27:36</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>8</position>
+            <sys_created_by>jimmy123465@gmail.com</sys_created_by>
+            <sys_created_on>2017-07-22 11:27:36</sys_created_on>
+            <sys_id>f57bc7eedbc003005cb2d8c0cf9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_win" sys_domain="global" view="2b5b2966db0003005cb2d8c0cf96190b">6b5b2966db0003005cb2d8c0cf96190f</sys_ui_section>
+            <sys_updated_by>jimmy123465@gmail.com</sys_updated_by>
+            <sys_updated_on>2017-07-22 11:27:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>9</position>
+            <sys_created_by>jimmy123465@gmail.com</sys_created_by>
+            <sys_created_on>2017-07-22 11:27:36</sys_created_on>
+            <sys_id>797bc7eedbc003005cb2d8c0cf9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_win" sys_domain="global" view="2b5b2966db0003005cb2d8c0cf96190b">6b5b2966db0003005cb2d8c0cf96190f</sys_ui_section>
+            <sys_updated_by>jimmy123465@gmail.com</sys_updated_by>
+            <sys_updated_on>2017-07-22 11:27:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>10</position>
+            <sys_created_by>jimmy123465@gmail.com</sys_created_by>
+            <sys_created_on>2017-07-22 11:27:36</sys_created_on>
+            <sys_id>f97bc7eedbc003005cb2d8c0cf9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_win" sys_domain="global" view="2b5b2966db0003005cb2d8c0cf96190b">6b5b2966db0003005cb2d8c0cf96190f</sys_ui_section>
+            <sys_updated_by>jimmy123465@gmail.com</sys_updated_by>
+            <sys_updated_on>2017-07-22 11:27:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>11</position>
+            <sys_created_by>jimmy123465@gmail.com</sys_created_by>
+            <sys_created_on>2017-07-22 11:27:36</sys_created_on>
+            <sys_id>7d7bc7eedbc003005cb2d8c0cf9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_win" sys_domain="global" view="2b5b2966db0003005cb2d8c0cf96190b">6b5b2966db0003005cb2d8c0cf96190f</sys_ui_section>
+            <sys_updated_by>jimmy123465@gmail.com</sys_updated_by>
+            <sys_updated_on>2017-07-22 11:27:36</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company</element>
+            <position>12</position>
+            <sys_created_by>jimmy123465@gmail.com</sys_created_by>
+            <sys_created_on>2017-07-22 11:27:36</sys_created_on>
+            <sys_id>fd7bc7eedbc003005cb2d8c0cf9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_win" sys_domain="global" view="2b5b2966db0003005cb2d8c0cf96190b">6b5b2966db0003005cb2d8c0cf96190f</sys_ui_section>
+            <sys_updated_by>jimmy123465@gmail.com</sys_updated_by>
+            <sys_updated_on>2017-07-22 11:27:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_service</element>
+            <position>13</position>
+            <sys_created_by>jimmy123465@gmail.com</sys_created_by>
+            <sys_created_on>2017-07-22 11:27:36</sys_created_on>
+            <sys_id>717bc7eedbc003005cb2d8c0cf9619a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_win" sys_domain="global" view="2b5b2966db0003005cb2d8c0cf96190b">6b5b2966db0003005cb2d8c0cf96190f</sys_ui_section>
+            <sys_updated_by>jimmy123465@gmail.com</sys_updated_by>
+            <sys_updated_on>2017-07-22 11:27:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>14</position>
+            <sys_created_by>jimmy123465@gmail.com</sys_created_by>
+            <sys_created_on>2017-07-22 11:27:36</sys_created_on>
+            <sys_id>f17bc7eedbc003005cb2d8c0cf9619a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_win" sys_domain="global" view="2b5b2966db0003005cb2d8c0cf96190b">6b5b2966db0003005cb2d8c0cf96190f</sys_ui_section>
+            <sys_updated_by>jimmy123465@gmail.com</sys_updated_by>
+            <sys_updated_on>2017-07-22 11:27:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>15</position>
+            <sys_created_by>jimmy123465@gmail.com</sys_created_by>
+            <sys_created_on>2017-07-22 11:27:36</sys_created_on>
+            <sys_id>757bc7eedbc003005cb2d8c0cf9619a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_win" sys_domain="global" view="2b5b2966db0003005cb2d8c0cf96190b">6b5b2966db0003005cb2d8c0cf96190f</sys_ui_section>
+            <sys_updated_by>jimmy123465@gmail.com</sys_updated_by>
+            <sys_updated_on>2017-07-22 11:27:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_58872_needit_win</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>jimmy123465@gmail.com</sys_created_by>
+            <sys_created_on>2017-07-22 04:27:46</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6b5b2966db0003005cb2d8c0cf96190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_win</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_6b5b2966db0003005cb2d8c0cf96190f</sys_update_name>
+            <sys_updated_by>jimmy123465@gmail.com</sys_updated_by>
+            <sys_updated_on>2017-07-22 04:27:46</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="nView" name="nView">2b5b2966db0003005cb2d8c0cf96190b</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

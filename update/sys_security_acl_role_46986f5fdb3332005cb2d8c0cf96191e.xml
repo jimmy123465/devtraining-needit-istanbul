@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-12 11:14:37</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>46986f5fdb3332005cb2d8c0cf96191e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_win.x_58872_needit.win_user</sys_name>
+        <sys_package display_value="">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_security_acl display_value="x_58872_needit_win">82986f5fdb3332005cb2d8c0cf96191b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_46986f5fdb3332005cb2d8c0cf96191e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-12 11:14:37</sys_updated_on>
+        <sys_user_role display_value="x_58872_needit.win_user" name="x_58872_needit.win_user">fd9863d3db3332005cb2d8c0cf9619a2</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

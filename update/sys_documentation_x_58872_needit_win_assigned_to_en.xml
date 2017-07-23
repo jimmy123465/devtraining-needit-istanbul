@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="assigned_to" label="Assigned To" language="en" table="x_58872_needit_win">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <help/>
+            <hint/>
+            <label>Assigned To</label>
+            <language>en</language>
+            <name>x_58872_needit_win</name>
+            <plural>Assigned Tos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jimmy123465@gmail.com</sys_created_by>
+            <sys_created_on>2017-07-22 18:43:49</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>ab4f687adbc403005cb2d8c0cf961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Assigned To</sys_name>
+            <sys_package display_value="">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_x_58872_needit_win_assigned_to_en</sys_update_name>
+            <sys_updated_by>jimmy123465@gmail.com</sys_updated_by>
+            <sys_updated_on>2017-07-22 18:43:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
