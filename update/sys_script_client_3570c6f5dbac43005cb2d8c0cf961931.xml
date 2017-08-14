@@ -1,36 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update sys_domain="global" table="sys_script_client">
     <sys_script_client action="INSERT_OR_UPDATE">
-        <active>false</active>
+        <active>true</active>
         <applies_extended>false</applies_extended>
         <condition/>
         <description/>
         <field>active</field>
         <global>true</global>
         <messages/>
-        <name>NeedIt onLoad Example</name>
+        <name>NeedIt Jslog option type</name>
         <order/>
-        <script><![CDATA[function onLoad() {
-   //Type appropriate comment here, and begin script below
-   alert("Thank you for loading the NeedIt form.   When you close this alert you will be able to interact with the form.");
+        <script><![CDATA[function onLoad(){
+	var x = 7;
+	jslog("The message is from jslog().");
+	jslog("The value of x is =" + x);
+	jslog("The NeedIt state value =" + g_form.getValue('state'));
+	jslog("The curretly Logged in user is " + g_user.getFullName() + ".");
+	jslog("ME:  The value of x = " + x);
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-02-08 17:07:03</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_created_by>jimmy123465@gmail.com</sys_created_by>
+        <sys_created_on>2017-08-13 18:43:01</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>139133b10fb43200cd674f8ce1050efb</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>NeedIt onLoad Example</sys_name>
+        <sys_id>3570c6f5dbac43005cb2d8c0cf961931</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>NeedIt Jslog option type</sys_name>
         <sys_overrides/>
         <sys_package display_value="">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_script_client_139133b10fb43200cd674f8ce1050efb</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-02-08 21:12:51</sys_updated_on>
+        <sys_update_name>sys_script_client_3570c6f5dbac43005cb2d8c0cf961931</sys_update_name>
+        <sys_updated_by>jimmy123465@gmail.com</sys_updated_by>
+        <sys_updated_on>2017-08-14 08:06:53</sys_updated_on>
         <table>x_58872_needit_needit</table>
         <type>onLoad</type>
         <ui_type>10</ui_type>
