@@ -13,38 +13,34 @@
         <on_load>true</on_load>
         <order>100</order>
         <reverse_if_false>true</reverse_if_false>
-        <run_scripts>true</run_scripts>
+        <run_scripts>false</run_scripts>
         <script_false><![CDATA[function onCondition() {
-	// Clear the field message written by the Execute if true script for the Other field
-	g_form.hideFieldMsg('u_other',true);
-	
+
 }]]></script_false>
         <script_true><![CDATA[function onCondition() {
-	// Display a message under the Other field to explain what to put in the
-	// Other field.
-	g_form.showFieldMsg('u_other','Briefly explain what you need.','info');
+
 }]]></script_true>
         <set_values/>
         <short_description>NeedIt show or hide Other field</short_description>
         <sys_class_name>sys_ui_policy</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-02-16 19:38:52</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_created_by>jimmy123465@gmail.com</sys_created_by>
+        <sys_created_on>2017-08-29 08:07:50</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>60c365289f413200bde5f79ff57fcfa9</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_id>d8a9023adbb803005cb2d8c0cf9619b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>NeedIt show or hide Other field</sys_name>
         <sys_overrides/>
         <sys_package display_value="">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_ui_policy_60c365289f413200bde5f79ff57fcfa9</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-02-17 02:18:15</sys_updated_on>
+        <sys_update_name>sys_ui_policy_d8a9023adbb803005cb2d8c0cf9619b8</sys_update_name>
+        <sys_updated_by>jimmy123465@gmail.com</sys_updated_by>
+        <sys_updated_on>2017-08-29 08:07:50</sys_updated_on>
         <table>x_58872_needit_needit</table>
-        <ui_type>10</ui_type>
+        <ui_type>0</ui_type>
         <view/>
     </sys_ui_policy>
 </record_update>
